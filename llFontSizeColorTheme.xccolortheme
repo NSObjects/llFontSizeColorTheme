@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SFMono-Regular - 18.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.987267 0.238645 0.291248 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SFMono-Regular - 18.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.255 0.714 0.27 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SFMono-Regular - 18.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SFMono-Regular - 18.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.959913 0.993937 0.999913 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SFMono-Regular - 18.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.118 0.125 0.157 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.397 0.397 0.302 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.12 0.31 0.34 1</string>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.18856 0.195 0.22444 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.253475 0.2594 0.286485 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 26.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNSDisplay - 26.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>1 1 1 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.232119 0.399622 0.912831 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNSDisplay - 26.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNSDisplay - 26.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>1 1 1 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNSDisplay - 36.4</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNSDisplay - 62.4</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNSDisplay - 46.8</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNSDisplay-Bold - 26.0</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.118 0.125 0.157 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.121797 0.188708 0.278107 0.85</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.133189 0.379831 0.641426 0.55</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.133189 0.379831 0.641426 0.4</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.335 0.456 0.488 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.469 0.426 0.77 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.207286 0.54868 0.202819 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.207286 0.54868 0.202819 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.207286 0.54868 0.202819 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.69092 0.746 0.169647 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.157649 0.543393 0.531165 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.149802 0.543451 0.53116 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.698 0.095 0.536 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.469 0.426 0.77 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.859 0.171 0.219 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.232119 0.399622 0.912831 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.character</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.number</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.string</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+		<key>xcode.syntax.url</key>
+		<string>PingFangSC-Ultralight - 24.0</string>
+	</dict>
+</dict>
+</plist>
